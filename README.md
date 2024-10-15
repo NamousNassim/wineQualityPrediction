@@ -20,11 +20,11 @@ The dataset `winequalityN.csv`;
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/NamousNassim/wineQualityPrediction.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd <repository-directory>
+    cd wineQualityPrediction
     ```
 3. Install the required dependencies:
     ```sh
